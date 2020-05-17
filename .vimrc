@@ -1,0 +1,9 @@
+set number
+syntax on
+set tabstop=4
+set autoindent
+set mouse=a
+set backspace=indent,eol,start
+set switchbuf=usetab
+set smartindent
+set cc=80

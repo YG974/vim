@@ -1,4 +1,5 @@
 # vim
-Run \nsh set_vim.sh\n
-it move the .vimrc file to your home directory ~/\n
+Run <br />
+`sh set_vim.sh` <br />
+It will move the .vimrc file to your home directory ~/ <br />
 Be careful, if you already have one, it will overwrite it
